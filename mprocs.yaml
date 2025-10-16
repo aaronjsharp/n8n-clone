@@ -1,0 +1,8 @@
+procs:
+  inngest:
+    cmd: ["cmd.exe", "/C", "npm run inngest:dev"]
+    cwd: "C:\\Users\\aaron\\Documents\\Software Development\\Code with Antonio\\n8n-clone"
+
+  next:
+    cmd: ["cmd.exe", "/C", "npm run dev"]
+    cwd: "C:\\Users\\aaron\\Documents\\Software Development\\Code with Antonio\\n8n-clone"
